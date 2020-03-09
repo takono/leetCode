@@ -1,2 +1,2 @@
 # leetCode
-recording leetCode problems
+recording leetCode problems by Scala
